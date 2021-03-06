@@ -18,5 +18,9 @@ companies hiring technical community builders ([more info on this here](https://
 - **[Chromatic](https://www.chromatic.com/)**
   - Build and test UIs faster with less manual work. The team behind [Storybook](http://storybook.js.org/).
   - Hiring DX engineer for community - email [Dominic Nguyen](mailto:dom+community@chromatic.com) (CXO)
+- **[Amplication](https://amplication.com/)**
+  - An open‑source development tool to help you develop quality Node.js applications without spending time on repetitive coding tasks.
+  - Unique opportunity to shape and build the community from the ground up along with an amazing product. 
+  - Hiring technical community builder - contact Yuval Hazaz (CEO) on our [discord server](https://discord.gg/b8MrjU6) 
 
 Feel free to make a PR if you are hiring such a role!
