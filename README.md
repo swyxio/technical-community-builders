@@ -22,5 +22,8 @@ companies hiring technical community builders ([more info on this here](https://
   - An open‑source development tool to help you develop quality Node.js applications without spending time on repetitive coding tasks.
   - Unique opportunity to shape and build the community from the ground up along with an amazing product. 
   - Hiring technical community builder - contact Yuval Hazaz (CEO) on our [discord server](https://discord.gg/b8MrjU6) 
+- **[Nhost](https://nhost.io)**
+  - Serverless backend in seconds with PostgreSQL, GraphQL, Hasura, Authentication, Storage and Serverless Functions.
+  - Hiring DX engineer for community - contact [Johan](https://twitter.com/elitasson) (CEO)
 
 Feel free to make a PR if you are hiring such a role!
