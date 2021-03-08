@@ -25,5 +25,9 @@ companies hiring technical community builders ([more info on this here](https://
 - **[Nhost](https://nhost.io)**
   - Serverless backend in seconds with PostgreSQL, GraphQL, Hasura, Authentication, Storage and Serverless Functions.
   - Hiring DX engineer for community - contact [Johan](https://twitter.com/elitasson) (CEO)
+- **[Oso](https://www.osohq.com/)** 
+  - A batteries-included library for building authorization in your application.
+  - Hiring [Developer + Community Advocate](https://www.osohq.com/jobs/dev-advocate)
+  - Opportunity to make a large impact on the product and the community, but also on the culture and future of the company.
 
 Feel free to make a PR if you are hiring such a role!
