@@ -1,6 +1,6 @@
-# technical-community-builders
+# Technical Community Builders
 
-companies hiring technical community builders ([more info on this here](https://www.swyx.io/community-builder/)).
+Companies hiring technical community builders ([more info on this here](https://www.swyx.io/community-builder/)).
 
 - **[Begin](https://begin.com)**
   - Effortlessly ship web apps & APIs on AWS
@@ -29,5 +29,9 @@ companies hiring technical community builders ([more info on this here](https://
   - A batteries-included library for building authorization in your application.
   - Hiring [Developer + Community Advocate](https://www.osohq.com/jobs/dev-advocate)
   - Opportunity to make a large impact on the product and the community, but also on the culture and future of the company.
+- **[Axelerant](https://www.axelerant.com/)** 
+  - As a global company that puts care into employee happiness, engineering excellence, and customer success, Axelerant is in striking contrast to the typical outsourcing option. With a diverse team working remotely across many timezones, with success stories that back up capabilities, and a reputation for an unconventional work environment that empowers.
+  - Hiring [Community Manager - QA](http://jobs.axelerant.com/apply/jvucwwvDM3/Quality-Assurance-Community-Manager?referrer=20210311064805J8BLXQQZNS9Q7PY5)
+
 
 Feel free to make a PR if you are hiring such a role!
