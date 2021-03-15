@@ -11,6 +11,9 @@ companies hiring technical community builders ([more info on this here](https://
 - **[Render](https://render.com)**
   - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
   - hiring technical community builder - contact [Uma Chingunde](https://twitter.com/umanagineer?lang=en) (VP Eng)
+- **[Zeet](https://zeet.co)**
+  - Deploy and Scale your software like the top tech companies do, without the complexity. By building on top of cutting-edge DevOps tooling and multiple clouds, Zeet makes it as simple as clicking a Github repository to setup a full production-ready environemnt with SSL, load balancing, private cloud deployments, CI/CD, and more
+  - hiring technical community manager - contact [Johnny Dallas](https://twitter.com/_johnnydallas_?lang=en) (CEO)
 - **[Sourcegraph](https://sourcegraph.com)** 
   - Universal Code Search - Move fast, even in big codebases.
   - hiring [Director of Community](https://jobs.lever.co/sourcegraph/480e8d71-03af-4659-ac90-b8e32ad4ef34)
