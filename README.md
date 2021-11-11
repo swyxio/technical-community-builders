@@ -32,5 +32,8 @@ companies hiring technical community builders ([more info on this here](https://
   - A batteries-included library for building authorization in your application.
   - Hiring [Developer + Community Advocate](https://www.osohq.com/jobs/dev-advocate)
   - Opportunity to make a large impact on the product and the community, but also on the culture and future of the company.
+- **[daily.dev](https://daily.dev)**
+  - Helping developers stay up to date.
+  - Hiring technical community builder - contact [Ido](https://twitter.com/idoshamun) (CTO)
 
 Feel free to make a PR if you are hiring such a role!
