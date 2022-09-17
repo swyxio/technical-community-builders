@@ -32,5 +32,8 @@ companies hiring technical community builders ([more info on this here](https://
   - A batteries-included library for building authorization in your application.
   - Hiring [Developer + Community Advocate](https://www.osohq.com/jobs/dev-advocate)
   - Opportunity to make a large impact on the product and the community, but also on the culture and future of the company.
+- **[Mirror World](https://mirrorworld.fun/)** 
+  - Few Lines of Mobile Code, All of Crypto’s Potential
+  - Hiring [Developer Relation]- contact [Yutong Li](https://twitter.com/yutongli27) (HRD)
 
 Feel free to make a PR if you are hiring such a role!
